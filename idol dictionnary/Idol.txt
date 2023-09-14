@@ -1,0 +1,6 @@
+nguyen thuc thuy tien;23;65;170
+dinh van thanh phuoc khoa;25;75;175
+phung thanh do;31;65;170
+snake;26;75;170
+pimo;25;80;171
+QNT;26;68;170

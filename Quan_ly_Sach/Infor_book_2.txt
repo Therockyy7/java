@@ -1,0 +1,4 @@
+That tinh khong sao;50;1998;Nguyen Ngoc thach;48
+Cho toi xin mot ves di tuoi tho;100;2001;Nguyen Nhat Anh;39
+Co gai den tu hom qua;120;1999;Mrs Anh;76
+Hom Nay toi that tinh;130;1997;Mrs Vu;73
