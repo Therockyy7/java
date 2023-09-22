@@ -1,1 +1,1 @@
-readAllLines
+args
