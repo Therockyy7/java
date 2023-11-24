@@ -1,0 +1,3 @@
+Xin chào, tôi là LInh
+Dữ liệu: 3.14
+Student [id=10, name=Trần Hoang Linh ]

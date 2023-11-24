@@ -1,0 +1,4 @@
+
+interface Animals {
+	void makeNoise();
+}

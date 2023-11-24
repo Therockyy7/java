@@ -1,0 +1,6 @@
+customerCode=se180999,customerType=NN,oldIndex=100,newIndex=900
+customerCode=se123456,customerType=KD,oldIndex=350,newIndex=700
+customerCode=IA109888,customerType=MN,oldIndex=140,newIndex=890
+customerCode=de180999,customerType=NN,oldIndex=100,newIndex=999
+customerCode=de100000,customerType=NN,oldIndex=100,newIndex=700
+customerCode=de1809999,customerType=NN,oldIndex=100,newIndex=900

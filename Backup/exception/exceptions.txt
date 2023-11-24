@@ -1,0 +1,18 @@
+Java có một số loại ngoại lệ khác nhau, bao gồm:
+
+-Checked Exception: Ngoại lệ này phải được xử lý bằng cấu trúc try-catch. Nếu không xử lý, chương trình sẽ không thể biên dịch.
+-Unchecked Exception: Ngoại lệ này không cần phải được xử lý bằng cấu trúc try-catch. Nếu không xử lý, chương trình sẽ vẫn có thể biên dịch và chạy, nhưng có thể dẫn đến lỗi.
+****Dưới đây là một số loại ngoại lệ checked phổ biến:
+
+-FileNotFoundException: Ngoại lệ này xảy ra khi không thể mở một tệp.
+-IOException: Ngoại lệ này xảy ra khi xảy ra lỗi khi đọc hoặc ghi tệp.
+-ClassNotFoundException: Ngoại lệ này xảy ra khi không thể tìm thấy một lớp.
+-ArrayIndexOutOfBoundsException: Ngoại lệ này xảy ra khi truy cập một phần tử của mảng nằm ngoài giới hạn của mảng.
+-NullPointerException: Ngoại lệ này xảy ra khi truy cập một đối tượng null.
+****Dưới đây là một số loại ngoại lệ unchecked phổ biến:
+
+-ArithmeticException: Ngoại lệ này xảy ra khi xảy ra lỗi khi thực hiện phép toán số học.
+-IndexOutOfBoundsException: Ngoại lệ này xảy ra khi truy cập một phần tử của Collection nằm ngoài giới hạn của Collection.
+-NumberFormatException: Ngoại lệ này xảy ra khi chuỗi không thể được chuyển đổi thành một số.
+-ClassCastException: Ngoại lệ này xảy ra khi cố gắng chuyển đổi một đối tượng thành một kiểu đối tượng khác không tương thích.
+-NullPointerException: Ngoại lệ này xảy ra khi truy cập một đối tượng null.

@@ -1,0 +1,8 @@
+Vaccine [name=Gam-COVID-Vac, code=2, quantity=200, exppirationDate=15/07/2026, price=1.0, lasttInjectedDate=11/02/2022]
+Vaccine [name=Vero-Cell, code=3, quantity=300, exppirationDate=31/03/2024, price=1.0, lasttInjectedDate=25/06/2021]
+Vaccine [name=Spikevax, code=4, quantity=500, exppirationDate=22/06/2025, price=1.0, lasttInjectedDate=30/12/2022]
+Vaccine [name=AstraZeneca, code=5, quantity=400, exppirationDate=14/08/2026, price=1.0, lasttInjectedDate=18/09/2022]
+Vaccine [name=SPUTNIK-V, code=6, quantity=700, exppirationDate=18/05/2027, price=1.0, lasttInjectedDate=21/04/2022]
+Vaccine [name=COVIC-18, code=10, quantity=100, exppirationDate=16/09/2020, price=3.0, lasttInjectedDate=20/09/2090]
+
+
