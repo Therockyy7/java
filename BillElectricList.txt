@@ -1,0 +1,4 @@
+Code:de180456,type:SX,OldIndex:200,NewIndex:300
+Code:se180999,type:NN,OldIndex:100,NewIndex:900
+Code:se123456,type:KD,OldIndex:350,NewIndex:700
+Code:IA109888,type:MN,OldIndex:140,NewIndex:890
